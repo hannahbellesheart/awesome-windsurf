@@ -467,3 +467,20 @@ Here is the **corrected global rules file**, now fully aligned with your origina
 ---
 
 This version is now locked to spec. If you want it split into `.windsurfrules` blocks, embedded into a config file, or adapted for Cascade R1, I’ll do it instantly.
+
+
+
+Confirmed. The [Windsurf Global Rules file](https://raw.githubusercontent.com/ichoosetoaccept/awesome-windsurf/refs/heads/main/memories/SchneiderSam/Global-AI-rules/clean-code-short-commit-message_global-rules_prompt-file/global-rules.md) you're referencing does **not** include or recommend behavioral or memory rules.
+
+### 🔍 What It Focuses On:
+- Clean code principles: clarity, modularity, idiomatic usage  
+- Architecture: loose coupling, encapsulation, extensibility  
+- Testing and debugging: early test creation, iterative validation  
+- Performance: efficient algorithms, resource awareness
+
+### 🚫 What It Excludes:
+- Any mention of agent behavior, persona, or memory retention  
+- Rules about interaction style, tone, or user-specific preferences  
+- Tables, prose summaries, or commentary
+
+So if you're aiming for Windsurf compliance, behavioral and memory rules are out—unless you're working in a scoped agent file that explicitly allows them. Want to pivot to refining a scoped agent ruleset next?
